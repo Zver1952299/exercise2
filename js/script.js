@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
             `;
             this.parent.append(element);
-0        }
+        }
     }
 
     new MenuCard(
@@ -206,5 +206,3 @@ document.addEventListener('DOMContentLoaded', () => {
         ".menu .container"
     ).render();
 });
-
-
